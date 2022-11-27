@@ -466,12 +466,14 @@ Metrics
 * [OpenTSDB github](https://github.com/OpenTSDB/opentsdb) - OpenTSDB source code.
 * [kairosDB](http://kairosdb.github.io/) - KairosDB.
 * [kairosDB github](https://github.com/kairosdb/kairosdb) - KairosDB source code.
+* [qryn](https://github.com/metrico/qryn) - qryn polyglot monitoring stack.
 
 Logging
 
 * [loki github](https://github.com/grafana/loki) - Loki: like Prometheus, but for logs.
 * [elasticsearch](https://www.elastic.co/cn/products/elasticsearch) - Open Source, Distributed, RESTful Search Engine, written in java.
 * [elasticsearch github](https://github.com/elastic/elasticsearch) - Elastic stack.
+* [qryn](https://github.com/metrico/qryn) - qryn polyglot monitoring stack.
 
 Tracing
 
@@ -479,6 +481,8 @@ Tracing
 * [new relic github](https://github.com/newrelic) - New relic written in Ruby.
 * [javamelody github](https://github.com/javamelody/javamelody) - The source code.
 * [kamon github](https://github.com/kamon-io/Kamon) - The source code.
+* [qryn](https://github.com/metrico/qryn) - qryn polyglot monitoring stack.
+
 
 ### Alerting
 
